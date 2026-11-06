@@ -41,6 +41,10 @@ AFRAME.registerComponent('extras', {
         }));
 
         sat.appendChild(this.make('a-box', {
+            width: 0.3, height: 0.02, depth: 0.15, color: '#2980B9', position: '0.25 0 0'
+        }))
+
+        sat.appendChild(this.make('a-box', {
             width: 0.3, height:0.02, depth:0.15, color: '#2980B9', position: '-0.25 0 0'
         }));
 
