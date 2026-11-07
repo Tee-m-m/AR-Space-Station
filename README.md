@@ -9,3 +9,7 @@ https://tee-m-m.github.io/AR-Space-Station/
 3D model:  "Astronaut" by Jungle Jim (https://sketchfab.com/jungle_jim), licensed under
 Creative Commons Attribution 4.0 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
 
+## AI Assistance Disclosure
+Parts of this project were written with help from Claude (Anthropic's AI assistant). The team
+reviewed, tested and integrated the code.
+
